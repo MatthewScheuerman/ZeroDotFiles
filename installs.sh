@@ -109,6 +109,10 @@ source ~/.zshrc
 
 sudo apt-get install fonts-powerline
 
+sudo apt-get install neofetch
+
+gem install lolcat
+
 #sudo apt-get install mc
 #
 ##################################################################################################################
