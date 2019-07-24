@@ -10,6 +10,7 @@ set -e
 
 # Dependencies
 
+apt install wget git
 sudo apt-get install -y autoconf
 sudo apt-get install -y automake
 sudo apt-get install -y build-essential
@@ -97,9 +98,16 @@ fi
 
 sudo apt-get install -y terminator
 
-#sudo apt-get install  zsh
+# not sure if this works or not
+apt install  zsh
+chsh -s /usr/bin/zsh root
 
-#sudo apt-get install powerline fonts 
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
+
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+source ~/.zshrc
+
+sudo apt-get install fonts-powerline
 
 #sudo apt-get install mc
 #
