@@ -7,4 +7,4 @@ This is my attempt to create ways to use something as small as a Raspberry Pi Ze
 
 If it can run on a Zero, it can run on a Pi 4. 
 
-My reasons behind this? I had an Zero around that wasn't being used, and I wanted to create configs for a future Raspberry Pi 4 4gb model that I will use as a desktop in the future. 
+My reasons behind this? I had an old-ish Zero around that wasn't being used, and I wanted to create configs for a future Raspberry Pi 4 4gb model that I will use as a desktop in the future. 
