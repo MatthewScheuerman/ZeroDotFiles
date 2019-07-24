@@ -5,6 +5,6 @@ This is my attempt to create ways to use something as small as a Raspberry Pi Ze
 
 ![Meme image of "If you can dodge a Wrench, You can Dodge a Ball" from the film Dodgeball](https://live.staticflickr.com/3926/15248503345_32e41e98c7_z.jpg)
 
-My reasons behind this? I had an Zero around that wasn't being used, and I wanted to create configs for a future Raspberry Pi 4 4gb model that I will use as a desktop in the future. 
-
 If it can run on a Zero, it can run on a Pi 4. 
+
+My reasons behind this? I had an Zero around that wasn't being used, and I wanted to create configs for a future Raspberry Pi 4 4gb model that I will use as a desktop in the future. 
